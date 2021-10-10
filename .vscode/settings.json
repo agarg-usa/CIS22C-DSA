@@ -12,7 +12,10 @@
 		"type_traits": "cpp",
 		"utility": "cpp",
 		"iosfwd": "cpp",
-		"fstream": "cpp"
+		"fstream": "cpp",
+		"algorithm": "cpp",
+		"string": "cpp",
+		"*.tcc": "cpp"
 	},
 	"cSpell.words": ["fout"]
 }
