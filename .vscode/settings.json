@@ -15,7 +15,9 @@
 		"fstream": "cpp",
 		"algorithm": "cpp",
 		"string": "cpp",
-		"*.tcc": "cpp"
+		"*.tcc": "cpp",
+		"typeinfo": "cpp",
+		"iomanip": "cpp"
 	},
 	"cSpell.words": ["fout"]
 }
